@@ -1,0 +1,22 @@
+{
+  "plugins": [
+    {
+      "id": "wfrac",
+      "name": "MHI WF-RAC lokaal",
+      "version": "1.0.0",
+      "api": 1,
+      "platform": "linux-armv7",
+      "url": "https://github.com/phoenix-blue/toon-mhi-plugins/releases/download/v1.0.0/wfrac-linux-armv7",
+      "sha256": "0cd443ebd076ffc7d3f6d6f099b1889deaa8de278510b10ec5e5533e4e108985"
+    },
+    {
+      "id": "esphome",
+      "name": "MHI ESPHome lokaal",
+      "version": "1.0.0",
+      "api": 1,
+      "platform": "linux-armv7",
+      "url": "https://github.com/phoenix-blue/toon-mhi-plugins/releases/download/v1.0.0/esphome-linux-armv7",
+      "sha256": "6fd0ce0a620688dcd2509510e098f1a62be92e7244c4d1d4e9dd50ee7de96431"
+    }
+  ]
+}
